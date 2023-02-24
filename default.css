@@ -645,6 +645,7 @@ Footer
 	.skills .skill-icon {
 		padding-bottom: 1rem;
 		font-size: 2rem;
+		margin-right: 2rem;
 	}
 
 	.right-column {
@@ -659,6 +660,11 @@ Footer
 		height: 180px;
 		padding-left: 10px;
 		padding-top: 10px;
+	}
+
+	#skills {
+		width: 80%;
+		margin: 0 auto;
 	}
 
 	.skills {
