@@ -228,7 +228,7 @@ h6 {
 }
 
 #profile_pic:hover {
-	filter: none;
+	filter: grayscale(0.1);
 }
 
 
