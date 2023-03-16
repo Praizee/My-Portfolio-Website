@@ -38,16 +38,22 @@ h1,
 h2,
 h3,
 h4,
-h5,
-h6,
 strong {
 	color: var(--mainText);
-	font-family: 'Exo 2', sans-serif;
+	font-family: 'Ubuntu', sans-serif;
 	/* font-family: 'Russo One', sans-serif; */
 	/* font-family: 'Segoe UI', sans-serif; */
 	font-weight: 500;
 }
 
+h5,
+h6 {
+	color: var(--mainText);
+	font-family: 'Exo 2', sans-serif;
+	font-weight: 500;
+}
+
+a,
 p,
 li,
 span,
@@ -338,7 +344,7 @@ h6 {
 .hire {
 	font-size: 1.2rem;
 	/* font-family: 'Roboto Mono', monospace; */
-	font-family: 'Russo One', sans-serif;
+	font-family: 'Ubuntu', sans-serif;
 	margin-left: 6.5rem;
 	padding: 0.1rem 0.3rem;
 	color: var(--secondaryText);
@@ -614,11 +620,6 @@ Footer
 	text-transform: capitalize;
 }
 
-/* a,
-.copyright {
-	color: var(--mainText);
-	text-decoration: none;
-} */
 
 /* ----------------------
         SCREEN SIZES
