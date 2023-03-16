@@ -224,11 +224,12 @@ h6 {
 	object-fit: cover;
 	border: 1px solid var(--borderColor);
 	filter: grayscale(0.4);
-	transition: filter 0.5s;
+	transition: filter, 0.5s;
 }
 
 #profile_pic:hover {
 	filter: grayscale(0.1);
+	/* transform: scale(1.205); */
 }
 
 
