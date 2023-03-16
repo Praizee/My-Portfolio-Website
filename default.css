@@ -217,6 +217,12 @@ h6 {
 	width: 200px;
 	object-fit: cover;
 	border: 1px solid var(--borderColor);
+	filter: grayscale(0.4);
+	transition: filter 0.5s;
+}
+
+#profile_pic:hover {
+	filter: none;
 }
 
 
