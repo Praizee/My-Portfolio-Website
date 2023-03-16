@@ -429,6 +429,31 @@ Skills
 	cursor: pointer;
 }
 
+/* 
+.skills .html:hover {
+	color: orangered;
+}
+
+.skills .css:hover {
+	color: blue;
+}
+
+.skills .js:hover {
+	color: yellow;
+}
+
+.skills .boostrap:hover {
+	color: #8534a3;
+}
+
+.skills .react:hover {
+	color: #6BD5FD;
+}
+
+.skills .github:hover {
+	color: whitesmoke;
+} */
+
 .skills .skill-icon:hover {
 	color: #a3a3a5;
 	transform: scale(1.2);
