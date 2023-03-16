@@ -38,25 +38,33 @@ h1,
 h2,
 h3,
 h4,
-h5,
-h6,
 strong {
     color: var(--mainText);
-    font-family: 'Exo 2', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
     /* font-family: 'Russo One', sans-serif; */
     /* font-family: 'Segoe UI', sans-serif; */
     font-weight: 500;
 }
 
+h5,
+h6 {
+    color: var(--mainText);
+    font-family: 'Exo 2', sans-serif;
+    font-weight: 500;
+}
+
+a,
 p,
 li,
 span,
 label,
 input,
+button,
 textarea {
     color: var(--secondaryText);
     /* font-family: 'Roboto Mono', monospace; */
     font-family: 'Segoe UI', monospace;
+    /* font-family: 'Exo 2', sans-serif; */
 }
 
 a {
