@@ -587,6 +587,8 @@ Connect
 	border-radius: 5px;
 	border: 1px solid var(--borderColor);
 	font-size: 14px;
+	resize: vertical;
+	/* max-height: 5rem; */
 }
 
 
