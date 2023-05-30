@@ -502,7 +502,8 @@ Projects
 }
 
 .thumbnail:hover {
-	transform: scale(1.12);
+	transform: scale(1.09);
+	/* transform: scale(1.12); */
 	object-fit: fill;
 }
 
