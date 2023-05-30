@@ -627,7 +627,8 @@ Footer
 .footer .social-icon {
 	color: var(--buttonColor);
 	margin-right: 2rem;
-	font-size: 1.5rem;
+	/* font-size: 1.5rem; */
+	font-size: 1.8rem;
 }
 
 .footer .social-icon:hover {
