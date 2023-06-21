@@ -1,7 +1,9 @@
 # My Portfolio Website
 
- Stephen Adeniji's Portfolio Website
- 18th February, 2023
+ Stephen Adeniji's Portfolio Website <br>
+ 
+ (18th February 2023)
+ 
 ![image](https://user-images.githubusercontent.com/89282358/221303931-2287d1d9-7e41-4a5c-a089-199a2bc072b3.png)
 
 Built with:
