@@ -782,7 +782,7 @@ span.type::after {
 /*=============== SCROLL BAR ===============*/
 ::-webkit-scrollbar {
 	width: .6rem;
-	/* background: hsl(0, 0%, 74%); */
+	background: hsl(0, 0%, 74%);
 }
 
 ::-webkit-scrollbar-thumb {
