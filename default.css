@@ -423,7 +423,8 @@ Skills
 	margin-top: 2rem;
 }
 
-.skills .skill-icon {
+.skills .skill-icon,
+.box-icon {
 	color: var(--buttonColor);
 	margin-right: 4rem;
 	font-size: 4rem;
