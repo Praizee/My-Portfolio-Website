@@ -504,7 +504,7 @@ Projects
 .thumbnail:hover {
 	transform: scale(1.09);
 	/* transform: scale(1.12); */
-	object-fit: fill;
+	/* object-fit: fill; */
 }
 
 .post-preview {
