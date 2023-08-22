@@ -47,6 +47,7 @@ strong {
 }
 
 h5,
+h4,
 h6 {
 	color: var(--mainText);
 	font-family: 'Exo 2', sans-serif;
