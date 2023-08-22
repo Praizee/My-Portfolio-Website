@@ -81,7 +81,8 @@ h1 {
 }
 
 h2 {
-	font-size: 36px;
+	/* font-size: 36px; */
+	font-size: 20px;
 }
 
 h3 {
@@ -89,7 +90,8 @@ h3 {
 }
 
 h4 {
-	font-size: 24px;
+	/* font-size: 24px; */
+	font-size: 16px;
 }
 
 h5 {
